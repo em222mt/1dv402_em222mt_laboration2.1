@@ -1,0 +1,12 @@
+D:\Projekt\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
+D:\Projekt\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
+D:\Projekt\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe
+D:\Projekt\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.pdb
+D:\Projekt\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.exe
+D:\Projekt\2-1-a-gissa-det-hemliga-talet-master\1DV402.S2.L1A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.pdb
+D:\Projekt\1DV402.S2.L01A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe.config
+D:\Projekt\1DV402.S2.L01A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.exe
+D:\Projekt\1DV402.S2.L01A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.pdb
+D:\Projekt\1DV402.S2.L01A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.exe
+D:\Projekt\1DV402.S2.L01A\1DV402.S2.L1A\bin\Debug\1DV402.S2.L1A.pdb
+D:\Projekt\1DV402.S2.L01A\1DV402.S2.L1A\obj\Debug\1DV402.S2.L1A.csprojResolveAssemblyReference.cache
